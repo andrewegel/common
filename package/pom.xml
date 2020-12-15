@@ -23,7 +23,7 @@
     <parent>
         <groupId>io.confluent</groupId>
         <artifactId>common-parent</artifactId>
-        <version>6.2.0-beta201210050748</version>
+        <version>6.2.0-ksqldb0.14.0</version>
     </parent>
 
     <artifactId>common-package</artifactId>
